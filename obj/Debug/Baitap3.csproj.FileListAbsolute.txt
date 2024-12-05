@@ -1,0 +1,10 @@
+D:\LTW_Buoi5\Baitap3\bin\Debug\Baitap3.exe.config
+D:\LTW_Buoi5\Baitap3\bin\Debug\Baitap3.exe
+D:\LTW_Buoi5\Baitap3\bin\Debug\Baitap3.pdb
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.csproj.AssemblyReference.cache
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.frm_Soanthaovanban.resources
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.Properties.Resources.resources
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.csproj.GenerateResource.cache
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.exe
+D:\LTW_Buoi5\Baitap3\obj\Debug\Baitap3.pdb
